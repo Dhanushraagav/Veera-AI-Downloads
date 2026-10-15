@@ -1,0 +1,11 @@
+{
+  "version": "3.0.1",
+  "notes": "Veera AI Desktop v3.0.1 production release. Unified edition architecture, security signature updates, and stability improvements.",
+  "pub_date": "2026-10-15T00:57:17.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/Dhanushraagav/Veera-AI-Downloads/raw/refs/heads/main/Veera-AI-3.0.1-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWJiam5nVEp5WUtTeHU0bGZwQS93NXlmZU9rVFR6MzNGRis0VjY0QVRtNkM4dmYyNGlRU3ZLKzFUZFVTTHJQN1lUMGRaQ0RGLzZWRk5MTy82SlR1U1gxc3lPaHFiM3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDI1ODM3CWZpbGU6VmVlcmEtQUlfMy4wLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjMuMC4xClRZOE5Od2tzQTNWdStVcFlubndacmd6eHZWaUFiaVp5MFBnYUJaclkrOG04dFREMVFwZWNpMXhxcXZRcUNySk9zem12WkFZR3JNYjFhNlM5S0lYYkNRPT0K"
+    }
+  }
+}
